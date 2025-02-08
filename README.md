@@ -87,7 +87,3 @@ For questions or collaborations:
 ---
 
 Developed with a focus on data-driven decision-making and effective visualization.
-
----
-
-Feel free to adjust any sections as needed. Let me know if you require further modifications or additional information! 
