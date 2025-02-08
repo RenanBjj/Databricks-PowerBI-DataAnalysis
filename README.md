@@ -1,7 +1,3 @@
-Good morning! I'm ready to assist you in creating a professional README for your project. Let's maintain the high standard we've established. Here's a proposed structure:
-
----
-
 # 📊 Databricks and Power BI Data Analysis
 
 [![Databricks](https://img.shields.io/badge/Databricks-Platform-orange)](https://databricks.com/)
